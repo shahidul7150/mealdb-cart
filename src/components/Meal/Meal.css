@@ -1,0 +1,14 @@
+.meal-component img{
+    width: 150px;
+}
+.meal-component{
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.meal-component button{
+    background-color: darkgreen;
+    border: none;
+    padding: 5px 10px;
+    color: #fff;
+    cursor: pointer;
+}
